@@ -1,3 +1,3 @@
 # demo
 
-~lerning github
+*lerning github
